@@ -1,4 +1,4 @@
-# 🕵️ Network Traffic Analysis (Zeek + Wireshark)
+# Network Traffic Analysis (Zeek + Wireshark)
 
 Hands-on blue-team style project analyzing network traffic in a controlled lab environment using **Zeek** and **Wireshark**.  
 Focus: detecting abnormal **DNS** and **HTTP** behavior and building SOC-style investigation skills.
