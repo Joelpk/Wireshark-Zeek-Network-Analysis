@@ -19,7 +19,7 @@ This project simulates the type of work done by a **SOC Analyst / Blue Teamer**.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Zeek** – Network security monitoring and log generation  
 - **Wireshark** – Deep packet inspection and protocol analysis  
