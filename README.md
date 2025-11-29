@@ -43,7 +43,7 @@ network-traffic-analysis/
 
 ## DNS Traffic Analysis
 Key things I looked at:
-Repeated DNS queries to the same suspicious domain
-High number of NXDOMAIN responses
-DNS queries to unusual top-level domains
-Unusual answer IP addresses
+- Repeated DNS queries to the same suspicious domain
+- High number of NXDOMAIN responses
+- DNS queries to unusual top-level domains
+- Unusual answer IP addresses
