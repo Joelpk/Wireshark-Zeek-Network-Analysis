@@ -39,3 +39,11 @@ network-traffic-analysis/
 ├── screenshots/   # Screenshots from Wireshark / logs / terminal
 ├── reports/       # Written analysis and findings
 └── README.md      # This documentation
+
+
+## DNS Traffic Analysis
+Key things I looked at:
+Repeated DNS queries to the same suspicious domain
+High number of NXDOMAIN responses
+DNS queries to unusual top-level domains
+Unusual answer IP addresses
