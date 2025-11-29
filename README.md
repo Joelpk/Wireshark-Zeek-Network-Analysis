@@ -39,7 +39,7 @@ network-traffic-analysis/
 ├── screenshots/   # Screenshots from Wireshark / logs / terminal
 ├── reports/       # Written analysis and findings
 └── README.md      # This documentation
-
+```
 
 ## DNS Traffic Analysis
 Key things I looked at:
