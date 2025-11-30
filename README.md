@@ -47,3 +47,8 @@ Key things I looked at:
 - High number of NXDOMAIN responses
 - DNS queries to unusual top-level domains
 - Unusual answer IP addresses
+```bassh
+  zeek-cut ts id.orig_h id.resp_h query rcode_name answers < dns.log | head
+
+
+
