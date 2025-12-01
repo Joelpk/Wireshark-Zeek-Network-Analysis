@@ -51,4 +51,11 @@ Key things I looked at:
   zeek-cut ts id.orig_h id.resp_h query rcode_name answers < dns.log | head
 ```
 
-
+## HTTP Traffic Analysis
+Focus areas:
+- Requests to suspicious paths (e.g., /test, /phpinfo.php, strange URIs)
+- Suspicious User-Agent strings
+- Repeated patterns that might indicate beaconing
+```bassh
+  zeek-cut ts id.orig_h id.resp_h query rcode_name answers < dns.log | head
+```
