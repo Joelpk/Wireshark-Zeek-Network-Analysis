@@ -57,5 +57,5 @@ Focus areas:
 - Suspicious User-Agent strings
 - Repeated patterns that might indicate beaconing
 ```bassh
-  zeek-cut ts id.orig_h id.resp_h query rcode_name answers < dns.log | head
+  zeek-cut ts id.orig_h id.resp_h method host uri referrer < http.log | head
 ```
