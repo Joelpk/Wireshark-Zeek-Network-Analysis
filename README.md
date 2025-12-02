@@ -59,3 +59,8 @@ Focus areas:
 ```bassh
   zeek-cut ts id.orig_h id.resp_h method host uri referrer < http.log | head
 ```
+
+Example Screenshot:
+```bassh
+  screenshot/dns_analysis.jpg
+```
