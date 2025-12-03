@@ -68,3 +68,9 @@ Example Screenshot:
 ```bassh
   screenshot/http_analysis.jpg
 ```
+
+## How to Reproduce This Lab
+1. Capture or Obtain a PCAP
+```bassh
+  sudo tcpdump -i eth0 -w pcaps/lab_traffic.pcap
+```
