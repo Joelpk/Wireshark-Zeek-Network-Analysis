@@ -74,3 +74,13 @@ Example Screenshot:
 ```bassh
   sudo tcpdump -i eth0 -w pcaps/lab_traffic.pcap
 ```
+
+2. Run Zeek on the PCAP
+from inside the project folder:
+```bassh
+  cd zeek_logs
+  zeek-Cr ../pcap/lab_traffic.pcap
+```
+
+
+   
