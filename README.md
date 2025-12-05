@@ -86,4 +86,7 @@ Zeek will generate files like:
 - http.log
 - conn.log
 
-   
+3. Explore logs with zeek-cut
+   ```bassh
+  zeek-cut ts id.orig_h id.resp_h query rcode_name answers < dns.log | head
+```
