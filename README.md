@@ -81,6 +81,9 @@ from inside the project folder:
   cd zeek_logs
   zeek-Cr ../pcap/lab_traffic.pcap
 ```
-
+Zeek will generate files like:
+- dns.log
+- http.log
+- conn.log
 
    
