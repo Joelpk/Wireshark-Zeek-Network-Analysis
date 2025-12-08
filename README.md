@@ -66,7 +66,7 @@ Focus areas:
 
 Example Screenshot:
 ```bassh
-  screenshot/http_analysis.jpg
+  ![DNS Analysis](screenshots/dns_analysis.jpg)
 ```
 
 ## How to Reproduce This Lab
