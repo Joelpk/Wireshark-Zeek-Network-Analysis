@@ -50,10 +50,9 @@ Key things I looked at:
 ```bassh
   zeek-cut ts id.orig_h id.resp_h query rcode_name answers < dns.log | head
 ```
+
 Example Screenshot:
-```bassh
   ![DNS Analysis](screenshots/dns_analysis.jpg)
-```
 
 ## HTTP Traffic Analysis
 Focus areas:
