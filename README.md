@@ -52,7 +52,7 @@ Key things I looked at:
 ```
 Example Screenshot:
 ```bassh
-  screenshot/dns_analysis.jpg
+  ![DNS Analysis](screenshots/dns_analysis.jpg)
 ```
 
 ## HTTP Traffic Analysis
