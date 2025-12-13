@@ -64,7 +64,7 @@ Focus areas:
 ```
 
 Example Screenshot:
-  ![Home](./screenshots/dns_analysis.jpg)
+  ![Home](./screenshots/http_analysis.jpg)
 
 ## How to Reproduce This Lab
 1. Capture or Obtain a PCAP
