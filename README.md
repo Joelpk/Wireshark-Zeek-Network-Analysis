@@ -64,9 +64,7 @@ Focus areas:
 ```
 
 Example Screenshot:
-```bassh
   ![Home](./screenshots/dns_analysis.jpg)
-```
 
 ## How to Reproduce This Lab
 1. Capture or Obtain a PCAP
